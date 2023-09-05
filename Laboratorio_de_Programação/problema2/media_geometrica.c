@@ -15,9 +15,8 @@ int main (){
     
      
     
-    
    
-    printf("%f" , media_geometrica);
+    printf("%0.2f" , media_geometrica);
     
     
     
